@@ -12,7 +12,7 @@ Download of `git clone`
 5. Submit a pull request :D
 
 ## Credits
-From Start Bootstrap
+Start Bootstrap
 
 ## License
 MIT
