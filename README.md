@@ -1,8 +1,7 @@
 # Wordpress Template Scaffold - One-Page Site
 Wordpress Template Scaffold
 ## Installation
-TODO: Describe the installation process
-Download of `git clone`
+Download or `git clone`
 
 ## Contributing
 1. Fork it!
