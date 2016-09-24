@@ -114,6 +114,43 @@ span.highlight {
   font-weight: 900;
 }
 
-.card-text {
-  
+.trans-button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.trans-button4 {
+    color: #fff;
+    border: 2px solid #e7e7e7;
+}
+
+.why-bg-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('/img/background-gradient-map-2.png') no-repeat center center scroll;
+    background-size:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.service-bg-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('/img/background-gradient-map-2.png') no-repeat center center scroll;
+    background-size:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
