@@ -135,7 +135,7 @@ span.highlight {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('img/background-gradient-map-2.png') no-repeat center center scroll;
+    background: url('/img/background-gradient-map-2.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -147,7 +147,7 @@ span.highlight {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('img/practice-areas-bg.png') no-repeat center center scroll;
+    background: url('/img/practice-areas-bg.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -171,7 +171,7 @@ span.highlight {
     /*height: 50%;
     width: 50%;*/
     height:400px;
-    background: url('img/practice-areas-hex.png');
+    background: url('/img/practice-areas-hex.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -181,7 +181,7 @@ span.highlight {
     min-height: 100%;
     width: 100%;
     text-align: center;
-    background: url('img/background-gradient-map3.png') no-repeat center center scroll;
+    background: url('/img/background-gradient-map3.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -297,7 +297,7 @@ span.highlight {
     min-height: 100%;
     width: 100%;
     text-align: center;
-    background: url('img/contact-bg.png') no-repeat center center scroll;
+    background: url('/img/contact-bg.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -315,7 +315,7 @@ input[type=text] {
     min-height: 100%;
     width: 100%;
     text-align: center;
-    background: url('img/location-bg.png') no-repeat center center scroll;
+    background: url('/img/location-bg.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
