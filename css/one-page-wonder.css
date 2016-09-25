@@ -6,7 +6,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('/img/background-gradient-map.png') no-repeat center center scroll;
+    background: url('../img/background-gradient-map.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
