@@ -328,7 +328,7 @@ input[type=text] {
     min-height: 100%;
     width: 100%;
     text-align: center;
-    background: url('/img/njlaw-bg.png') no-repeat center center scroll;
+    background: url('../img/njlaw-bg.png') no-repeat center center scroll;
     background-size:100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
